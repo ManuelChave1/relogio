@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 10px;
+    padding: 10px;
+    background-color:rgb(43, 43, 139);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: white;
+}
+
+section{
+    width: 50%;
+    height: 200px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+    color: rgb(43, 43, 139);
+    border-radius: 20px 0px;
+    background-image: linear-gradient(to right, yellow, red);
+}
+
+h1{
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+div#tempo{
+    
+    display:inline-flex;
+    color: white;
+    border-radius: 7px;
+}
+
+
+ 
+#hora{
+    margin: 10px;
+   padding-top: 10px;
+   width: 50px;
+   height: 30px;
+   border-radius: 7px;
+   background-color: black;
+}
+
+#minutos{
+    margin: 10px;
+    padding-top: 10px;
+   width: 50px;
+   height: 30px;
+   border-radius: 7px;
+   background-color: black;
+}
+
+#segundos{
+   margin: 10px;
+   padding-top: 10px;
+   width: 50px;
+   height: 30px;
+   border-radius: 7px;
+   background-color: black;
+}
+
